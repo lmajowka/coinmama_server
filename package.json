@@ -1,0 +1,14 @@
+{
+  "name": "coinmama_exercise",
+  "version": "1.0.0",
+  "description": "Exercise for Coinmama interview, fullstack developer position",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Majowka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
