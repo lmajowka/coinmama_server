@@ -13,3 +13,7 @@ Configure your mysql in this file:
 ``` $ npm start ```
 
 This will start node server in the port 3001
+
+go to
+
+`http://localhost:3001/crawl` to start crawling prices
