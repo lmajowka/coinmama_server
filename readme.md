@@ -2,7 +2,7 @@
 
 Configure your mysql in this file:
 
-``` coinmama_exercise/mysql.js ```
+``` coinmama_server/mysql.js ```
 
 # Install packages
 
