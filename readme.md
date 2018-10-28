@@ -14,6 +14,6 @@ Configure your mysql in this file:
 
 This will start node server in the port 3001
 
-go to
+Navigate to
 
 `http://localhost:3001/crawl` to start crawling prices
